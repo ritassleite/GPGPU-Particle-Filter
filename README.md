@@ -1,5 +1,5 @@
 # GPGPU-Particle-Filter
-#Author: Rita Leite, student nº 741372
+#Author: Rita Leite
 
 
 This project consists of an implementation of a bootstrap particle filter on GPU. This project was done within the course GPGPU Computing in the Lappeenranta University of Technology.
